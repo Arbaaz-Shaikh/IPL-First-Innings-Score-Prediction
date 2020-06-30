@@ -5,13 +5,13 @@
 Build a model to predict the score (in terms of range) of any IPL match.
 
 ### Dataset:
-The dataset _'ipl.csv'_ consists of ball-to-ball informations about every match of IPL from __Season 1 to 10__ ie: (2008 to 2017)<br/>
+The dataset _'IPL Data Set.csv'_ consists of ball-to-ball informations about every match of IPL from __Season 1 to 10__ ie: (2008 to 2017)<br/>
 Dataset consists following columns:<br/>
 _• mid: Unique match id._<br/>
 _• date: Date on which the match was played._<br/>
 _• venue: Stadium where match was played._<br/>
-_• bat_team: Batting team name._<br/>
-_• bowl_team: Bowling team name._<br/>
+_• batting_team: Batting team name._<br/>
+_• bowling_team: Bowling team name._<br/>
 _• batsman: Batsman who faced that particular ball._<br/>
 _• bowler: Bowler who bowled that particular ball._<br/>
 _• runs: Runs scored by team till that point of instance._<br/>
@@ -30,7 +30,6 @@ _• Pandas_<br/>
 _• Numpy_<br/>
 _• Matplotlib_<br/>
 _• Seaborn_<br/>
-_• Google Colaboratory_<br/>
 
 ### Algorithms Used:
 _• Linear Regression_<br/>
