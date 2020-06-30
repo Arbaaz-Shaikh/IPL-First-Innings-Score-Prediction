@@ -1,5 +1,5 @@
 # First Innings Score Prediction - Indian Premier League (IPL)
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
+
 
 ### Problem statement:
 Build a model to predict the score (in terms of range) of any IPL match.
