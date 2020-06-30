@@ -1,4 +1,4 @@
-#Problem statement:
+Problem statement:
 
 Build a model to predict the score (in terms of range) of any IPL match.
 
