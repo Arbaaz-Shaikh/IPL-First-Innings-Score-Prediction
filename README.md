@@ -2,7 +2,7 @@
 
 
 ### Problem statement:
-Build a model to predict the score of any IPL match (In terms of range).
+Build a model to predict the first innings score of any IPL match (In terms of range).
 
 ### Dataset:
 The dataset _'IPL Data Set.csv'_ consists of ball-to-ball informations about every match of IPL from __Season 1 to 10__ ie: (2008 to 2017)<br/>
