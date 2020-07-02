@@ -42,4 +42,4 @@ _• Add columns in dataset of top batsmen and bowlers of all the teams._<br/>
 _• Add columns that consists of striker and non-striker's strike rates._<br/>
 _• Implement this problem statement using Artificial Neural Network (ANN)._<br/>
 
-• Please do ⭐ the repository, if it helped you in anyway.
+• Please give a  ⭐ to the repository, if it helped you in anyway.
